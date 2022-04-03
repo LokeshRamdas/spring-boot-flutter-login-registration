@@ -1,0 +1,8 @@
+{
+    "app_id": "test123-xwnsn",
+    "config_version": 20210101,
+    "name": "TEST123",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "testing"
+}
